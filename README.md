@@ -1,0 +1,2 @@
+# pratical_statistics_for_data_scientists
+50 essential concepts
